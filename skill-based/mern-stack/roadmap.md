@@ -109,6 +109,9 @@
 
 ### 🎥 Video Tutorial Recommendation
 
+<img width="915" height="521" alt="image" src="https://github.com/user-attachments/assets/369d4110-f232-4acb-b3bb-4a914327fe4a" />
+
+
 [MERN Stack Tutorial with Deployment – Beginner's Course](https://www.youtube.com/watch?v=F9gB5b4jgOI&utm_source=chatgpt.com)
 
 A **recent** and comprehensive 2025 course by Codesistency, covering MongoDB, Express, React, Node, and deployment. Perfect for building confidence hands-on.
