@@ -1,7 +1,5 @@
 # DevOps-Roadmap
-Here’s a structured and clickable **DevOps Roadmap** converted from your PDF, including **short explanations** and **topic-wise links** for further learning. Each item below includes a brief overview and a learning link (official or widely respected resources):
 
----
 
 ## 🧑‍💻 **Learn a Programming Language**
 
@@ -228,6 +226,4 @@ Deploy code without managing servers.
 * **[KodeCloud Courses](https://kodecloud.com/)**
 * **[DevOps Bootcamp by Nana](https://techworld-with-nana.teachable.com/)**
 
----
 
-Would you like this converted into a downloadable or shareable HTML, Notion page, or Google Doc?
