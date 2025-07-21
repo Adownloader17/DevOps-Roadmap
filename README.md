@@ -1,6 +1,37 @@
 # 🚀 Developer Roadmaps
 
 Welcome to the ultimate roadmap repository for developers! Whether you're just starting or looking to master a specific domain, this repo helps you track and plan your learning journey.
+roadmap-repo/
+│
+├── README.md
+├── LICENSE
+│
+├── track-based/
+│   ├── frontend/
+│   │   └── roadmap.md
+│   ├── backend/
+│   │   └── roadmap.md
+│   ├── devops/
+│   │   └── roadmap.md
+│   └── fullstack/
+│       └── roadmap.md
+│
+└── skill-based/
+    ├── dsa/
+    │   └── roadmap.md
+    ├── git-github/
+    │   └── roadmap.md
+    ├── flutter/
+    │   └── roadmap.md
+    ├── php/
+    │   └── roadmap.md
+    ├── django/
+    │   └── roadmap.md
+    ├── mean-stack/
+    │   └── roadmap.md
+    └── mern-stack/
+        └── roadmap.md
+
 
 ## 📂 Sections
 
