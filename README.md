@@ -1,7 +1,7 @@
 # 🚀 Developer Roadmaps
 
 Welcome to the ultimate roadmap repository for developers! Whether you're just starting or looking to master a specific domain, this repo helps you track and plan your learning journey.
-![Banner](images/banner.png)
+![Banner](images/banner.jpg)
 
 
 
