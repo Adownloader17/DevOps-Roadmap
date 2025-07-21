@@ -6,7 +6,7 @@
 
 ---
 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/5e6013c5-280f-47ad-b830-050964398d8f" />
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/5e6013c5-280f-47ad-b830-050964398d8f" />
 
 
 ### 1. Prerequisites
