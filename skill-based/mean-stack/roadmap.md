@@ -112,6 +112,8 @@
 * E‑commerce store with real‑time notifications
 
 🎥 A guided video resource:
+<img width="915" height="521" alt="{6D1BF042-E188-4FFF-93CB-41FCC0FE4D33}" src="https://github.com/user-attachments/assets/938bd379-f94e-4f1d-a742-a26f86457ba1" />
+
 
 [MEAN Stack Developer Roadmap 2025 | Complete Step‑by‑Step Guide (Beginner to Pro)](https://www.youtube.com/watch?v=Rg2k8K10bVw&utm_source=chatgpt.com)
 
